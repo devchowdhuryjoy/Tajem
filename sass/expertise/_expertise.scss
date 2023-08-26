@@ -1,0 +1,53 @@
+/* EXPERTISE CSS END */
+.common-title h3{
+    font-family: 'Playfair Display', serif;
+    font-size: 22px;
+    color: #413d4b;
+    font-weight: 700;
+    margin-bottom: 17px;
+    margin-top: 70px;
+  
+  }
+  .common-title p{
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+    color: #2f2d35;
+    font-weight: 400;
+    margin-bottom: 100px;
+    position: relative;
+  }
+  .common-title p:after {
+    content: '';
+    position: absolute;
+    bottom: -18px;
+    left: 50%;
+    width: 50px;
+    height: 2px;
+    background: #c6c4c9;
+    transform: translateX(-50%);
+  }
+  .expertise-up{
+    margin-bottom: 80px;
+  }
+  .expertise-item {
+    padding: 0 21px;
+  }
+  .expertise-icon img{
+    color: #41aacc;
+  }
+  .expertise-text h5{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    color: #413d4b;
+    font-weight: 900;
+    margin-top: 35px;
+  }
+  .expertise-text p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    color: #333333;
+    font-weight: 300;
+    line-height: 24px;
+    margin-top: 25px;
+  }
+  /* EXPERTISE CSS END */
